@@ -1,0 +1,1 @@
+WorkItem Id: 1204339; Related Id: 1192821; Category: DataBase; EnvironmentProd: DB2ROCK-ODS
